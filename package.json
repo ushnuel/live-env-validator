@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.103.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushnuel/live-env-validator.git"
+  },
+  "author": "Emmanuel Eze",
   "categories": [
     "Other"
   ],
